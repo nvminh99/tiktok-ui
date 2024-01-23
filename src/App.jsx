@@ -1,8 +1,11 @@
 import React from 'react';
-import ListPage from './pages/ListPage';
 
 function App() {
-  return <ListPage />;
+  return (
+    <div>
+      <h2>Minh RUbi 99</h2>
+    </div>
+  );
 }
 
 export default App;
